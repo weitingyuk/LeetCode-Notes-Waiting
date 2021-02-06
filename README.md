@@ -1,7 +1,14 @@
 Waiting's leetcode notes
 
+### 2021-02-06
+[1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-06/LongestCommonSubsequence1143.java)
 
-### 2021-02-03
+### 2021-02-05
+[206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-05/ReverseList206.java)
+
+### 2021-02-04
 [470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-04/Rand470.java)
 
