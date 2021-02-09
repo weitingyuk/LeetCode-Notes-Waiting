@@ -1,5 +1,9 @@
 Waiting's leetcode notes
 
+### 2021-02-09
+[232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-09/MyQueue232.java)
+
 ### 2021-02-08
 [22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-08/GetKthFromEnd22.java)
