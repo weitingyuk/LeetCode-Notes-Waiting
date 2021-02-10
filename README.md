@@ -1,5 +1,9 @@
 Waiting's leetcode notes
 
+### 2021-02-10
+[1114. 按序打印](https://leetcode-cn.com/problems/print-in-order/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-10/Foo1114.java)
+
 ### 2021-02-09
 [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-09/MyQueue232.java)
