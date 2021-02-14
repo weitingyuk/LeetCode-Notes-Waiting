@@ -2,7 +2,7 @@ package Leetcode;
 
 public class SortArrayHeapSort912 {
   /**
-   * Method2: HeapSort Time: O(NlogN) Space: O(H)  Stability: false
+   * Method2: HeapSort; Average Time: O(NlogN), The Best Time: O(N), The Worst Time: O(N^2); Space: O(1)  Stability: false
    **/
   public int[] sortArray(int[] nums) {
     heapSortAsc(nums, nums.length);

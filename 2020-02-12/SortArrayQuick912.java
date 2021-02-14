@@ -5,7 +5,7 @@ import java.util.LinkedList;
 public class SortArrayQuick912 {
 
   /**
-   * Method1: NonRecQuickSort Time: O(NlogN) Space: O(logN)
+   * Method1: NonRecQuickSort; Average Time: O(NlogN), The Best Time: O(NlogN), The Worst Time: O(N^2); Space: O(H); Stability: false
    **/
   public int[] sortArray1(int[] nums) {
     NonRecQuickSort(nums, 0, nums.length - 1);
@@ -50,7 +50,7 @@ public class SortArrayQuick912 {
   }
 
   /**
-   * Method2: RecQuickSort Time: O(NlogN) Space: O(logN)
+   * Method2: RecQuickSort Time: O(NlogN) Space: O(H)
    **/
   public int[] sortArray(int[] nums) {
     quickSort(nums, 0, nums.length - 1);

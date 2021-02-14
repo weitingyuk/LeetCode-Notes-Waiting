@@ -1,5 +1,10 @@
 Waiting's leetcode notes
 
+### 2021-02-14
+- [x] [912. 排序数组-常用的排序方式有哪些，时间复杂度是多少？](https://leetcode-cn.com/problems/sort-an-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-14/SortArrayInsertSort912.java)
+ [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-14/SortArrayBubbleSort912.java)
+
 ### 2021-02-13
 - [x] [912. 排序数组-常用的排序方式有哪些，时间复杂度是多少？](https://leetcode-cn.com/problems/sort-an-array/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-13/SortArrayHeapSort912.java)
