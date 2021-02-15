@@ -1,5 +1,11 @@
 Waiting's leetcode notes
 
+### 2021-02-15
+- [x] [912. 排序数组-常用的排序方式-SelectSort](https://leetcode-cn.com/problems/sort-an-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-15/SortArraySelectSort912.java)
+- [x] [912. 排序数组-常用的排序方式-MergeSort ](https://leetcode-cn.com/problems/sort-an-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-15/SortArrayMergeSort912.java)
+
 ### 2021-02-14
 - [x] [912. 排序数组-常用的排序方式-InsertSort](https://leetcode-cn.com/problems/sort-an-array/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-14/SortArrayInsertSort912.java)
