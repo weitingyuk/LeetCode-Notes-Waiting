@@ -1,9 +1,15 @@
 Waiting's leetcode notes
 
+### 2021-02-16
+- [x] [43. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-16/Multiply43.java)
+- [x] [415. 字符串相加](https://leetcode-cn.com/problems/add-strings/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-16/AddStrings415.java)
+
 ### 2021-02-15
 - [x] [912. 排序数组-常用的排序方式-SelectSort](https://leetcode-cn.com/problems/sort-an-array/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-15/SortArraySelectSort912.java)
-- [x] [912. 排序数组-常用的排序方式-MergeSort ](https://leetcode-cn.com/problems/sort-an-array/)
+- [x] [912. 排序数组-常用的排序方式-MergeSort](https://leetcode-cn.com/problems/sort-an-array/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-15/SortArrayMergeSort912.java)
 
 ### 2021-02-14
