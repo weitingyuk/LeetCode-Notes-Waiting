@@ -1,5 +1,10 @@
 Waiting's leetcode notes
 
+### 2021-02-18
+- [x] [合并两个包含10G URL的文件](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-18/MergeBigFile.md)
+- [x] [多台机器多个文件找最大值](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-18/MergeMultiFile.md)
+- [x] [求两个文件中的重复数据](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-18/MergeDuplicate.md)
+
 ### 2021-02-17
 - [x] [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-17/FindKthLargest215.java)
