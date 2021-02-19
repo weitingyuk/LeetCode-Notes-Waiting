@@ -6,7 +6,14 @@ import java.util.List;
 import java.util.Random;
 import java.util.stream.Collectors;
 
-public class RedPacket1 {
+public class RedPacket {
+
+  /**
+   * /**
+   *  * 题目如下：为了避免抢红包时出现下图情况（即红包最大的和最小的差距非常大）微信程序员小萌打算修改红包算法，使抢到的红包最大和最小不超过 K 倍。
+   *  *          公式化来说，输入为：红包总金额(sum)，红包数量(num)，K 共三个参数，设计算法使每一次输出的红包数组最大不超过最小值的 K 倍，并且要把红包随机发完。
+   * @param args
+   */
   public static void main(String args[])  {
     List<Double> bList = createBonusList(100, 6, 5);
     System.out.println(String.format("mock(%s, %s, %s), the result：%s", 100, 6, 5 ,String.join(",", bList.toString())));
@@ -50,7 +57,7 @@ public class RedPacket1 {
     System.out.println(String.format("The end total num： %s; Max: %s;  Min: %s; Max times: %s", bList.stream().mapToDouble(value -> value).sum(), max, min, (int) (max/min)));
 
   }
-  
+
   //考虑到最极端的情况totalNum-1个都是取值min，只有一个取到max,这时候max能取到最大值, 这种情况能得出对应的min和最大的max, 即
   // max = k * min;
   // sum = (totalNum-1)*min + k * min = (k + totalNum - 1) * min
