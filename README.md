@@ -1,6 +1,11 @@
 Waiting's leetcode notes
 
-### 2021-02-19 二分法
+### 2021-02-19 
+
+### 2021-02-19
+#### 红包算法
+ * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-19/RedPacket.java)
+#### 二分法
 - [x] [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-19/SearchRange34.java)
 - [x] [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)
