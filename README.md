@@ -4,6 +4,7 @@ Waiting's leetcode notes
 ### 2021-02-19
 #### 红包算法
  * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-19/RedPacket.java)
+ * [source code1](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-19/RedPacket1.java)
 #### 二分法
 - [x] [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-19/SearchRange34.java)
