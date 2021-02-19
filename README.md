@@ -1,5 +1,19 @@
 Waiting's leetcode notes
 
+### 2021-02-19 二分法
+- [x] [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-19/SearchRange34.java)
+- [x] [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-19/SearchMatrix74.java)
+- [x] [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-19/SearchMatrixII240.java)
+- [x] [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-19/FirstBadVersion278.java)
+- [x] [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-19/FindPeakElement162.java)
+- [x] [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-19/RotateSearch33.java)
+
 ### 2021-02-18
 - [x] [合并两个包含10G URL的文件](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-18/MergeBigFile.md)
 - [x] [多台机器多个文件找最大值](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-18/MergeMultiFile.md)
