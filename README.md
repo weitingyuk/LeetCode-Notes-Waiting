@@ -1,5 +1,18 @@
 Waiting's leetcode notes
 
+### 2021-02-20
+#### 二分法
+- [x] [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-120/RotateArray189.java)
+- [x] [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-120/ReverseWords151.java)
+- [x] [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-120/MySqrt69.java)
+- [x] [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-120/FindDuplicate287.java)
+#### BST
+- [x] [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-120/BSTIterator173.java)
 
 ### 2021-02-19
 #### 红包算法
