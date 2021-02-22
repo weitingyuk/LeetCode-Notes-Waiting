@@ -31,7 +31,7 @@ public class InorderSuccessor285 {
     return null;
   }
 
-  /**Method 2: Iteration; Time:O(H); Space: O(H) **/
+  /**Method 2: Recursive; Time:O(H); Space: O(H) **/
   public static TreeNode inorderSuccessor2(TreeNode root, TreeNode p) {
     if(root == null || p == null) {
       return null;
@@ -47,7 +47,7 @@ public class InorderSuccessor285 {
     }
   }
 
-  /**Method 3: Recursive; Time:O(H); Space: O(1) **/
+  /**Method 3: Iteration; Time:O(H); Space: O(1) **/
   public TreeNode inorderSuccessor(TreeNode root, TreeNode p) {
     if(root == null || p == null) {
       return null;

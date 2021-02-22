@@ -1,8 +1,25 @@
 Waiting's leetcode notes
 
+### 2021-02-22
+#### BST
+- [x] [11. 二叉查找树中搜索区间](https://www.lintcode.com/problem/search-range-in-binary-search-tree/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-22/SearchRangeLintcode11.java)
+- [x] [510. 二叉搜索树中的中序后继 II(with parent)](https://leetcode-cn.com/problems/inorder-successor-in-bst-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-22/InorderSuccessorWithParent510.java)
+- [x] [85. 在二叉查找树中插入节点](https://www.lintcode.com/problem/insert-node-in-a-binary-search-tree/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-22/InsertNodeBstLintcode85.java)
+- [x] [450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-22/DeleteNodeBst450.java)
+- [x] [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-22/NumTrees96.java)
+- [x] [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-22/GenerateTreesBst95.java)
+- [x] [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/submissions/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-22/IsValidBST98.java)
+
 ### 2021-02-21
 #### BST
-- [x] [285. 二叉搜索树中的顺序后继](https://leetcode-cn.com/problems/inorder-successor-in-bst/)
+- [x] [285. 二叉搜索树中的顺序后继(without parent)](https://leetcode-cn.com/problems/inorder-successor-in-bst/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-21/InorderSuccessor285.java)
 
 ### 2021-02-20
