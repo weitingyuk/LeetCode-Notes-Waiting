@@ -15,7 +15,7 @@ public class ReverseList206 {
     return pre;
   }
 
-  /** Method1:iteration, Time: O(N), Space:O(1)**/
+  /** Method:recursion, Time: O(N), Space:O(N)**/
   public ListNode reverseList2(ListNode head) {
     ListNode pre = null;
     ListNode cur = head;

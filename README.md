@@ -1,5 +1,16 @@
 Waiting's leetcode notes
 
+### 2021-02-24
+#### LinkedList
+- [x] [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-24/DeleteDuplicates83.java)
+- [x] [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-24/DeleteDuplicates82.java)
+- [x] [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-24/PartitionList86.java)
+- [x] [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-24/MergeTwoLists21.java)
+
 ### 2021-02-23
 #### BTree
 - [x] [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
