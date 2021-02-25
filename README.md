@@ -1,5 +1,14 @@
 Waiting's leetcode notes
 
+### 2021-02-25
+#### LinkedList + Two pointers
+- [x] [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-25/RemoveNthFromEnd19.java)
+- [x] [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-25/HasCycle141.java)
+- [x] [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-25/DetectCycle142.java)
+
 ### 2021-02-24
 #### LinkedList
 - [x] [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
