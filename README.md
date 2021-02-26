@@ -1,5 +1,10 @@
 Waiting's leetcode notes
 
+### 2021-02-26
+#### LinkedList + Two pointers
+- [x] [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-26/RotateRight61.java)
+
 ### 2021-02-25
 #### LinkedList + Two pointers
 - [x] [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
