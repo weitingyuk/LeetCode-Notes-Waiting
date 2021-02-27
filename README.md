@@ -1,5 +1,16 @@
 Waiting's leetcode notes
 
+### 2021-02-27
+#### LinkedList + Two pointers
+- [x] [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-27/MergeKLists23.java)
+- [x] [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-27/CopyRandomList138.java)
+- [x] [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-27/IsPalindromeList234.java)
+- [x] [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-27/GetIntersectionNode160.java)
+
 ### 2021-02-26
 #### LinkedList + Two pointers
 - [x] [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/)
