@@ -1,5 +1,12 @@
 Waiting's leetcode notes
 
+### 2021-02-28
+#### DP
+- [x] [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-28/MinimumTotal120.java)
+- [x] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-28/MaxSubArray53.java)
+
 ### 2021-02-27
 #### LinkedList + Two pointers
 - [x] [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
