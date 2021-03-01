@@ -1,5 +1,18 @@
 Waiting's leetcode notes
 
+### 2020-03-01
+#### Array
+- [x] [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-01/Intersection349.java)
+- [x] [311. 稀疏矩阵的乘法](https://leetcode-cn.com/problems/sparse-matrix-multiplication/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-01/Multiply311.java)
+- [x] [80. 中位数](https://www.lintcode.com/problem/median)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-01/MedianLintCode80.java)
+
+#### Array + Two pointers
+- [x] [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-01/MinSubArrayLen209.java)
+
 ### 2021-02-28
 #### DP
 - [x] [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
