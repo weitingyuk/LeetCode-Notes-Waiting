@@ -1,5 +1,13 @@
 Waiting's leetcode notes
 
+### 2020-03-02
+#### DP
+- [x] [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-02/ClimbStairs70.java)
+#### HashMap
+- [x] [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-02/LRUCache146.java)
+
 ### 2020-03-01
 #### Array
 - [x] [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
