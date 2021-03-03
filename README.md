@@ -1,5 +1,15 @@
 Waiting's leetcode notes
 
+### 2020-03-03
+#### Matrix
+- [x] [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-03/SpiralOrder54.java)
+- [x] [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-03/MinPathSum64.java)
+#### Array
+- [x] [调整数组顺序使奇数位于偶数前面](https://www.nowcoder.com/practice/ef1f53ef31ca408cada5093c8780f44b?tpId=117&tqId=37776&rp=1&ru=%2Fta%2Fjob-code-high&qru=%2Fta%2Fjob-code-high%2Fquestion-ranking&tab=answerKey)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-03/ReOrderArrayNewCode.java)
+
 ### 2020-03-02
 #### DP
 - [x] [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
@@ -96,16 +106,16 @@ Waiting's leetcode notes
 ### 2021-02-20
 #### BST
 - [x] [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
-* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-120/BSTIterator173.java)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-20/BSTIterator173.java)
 #### 二分法
 - [x] [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
-* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-120/RotateArray189.java)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-20/RotateArray189.java)
 - [x] [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
-* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-120/ReverseWords151.java)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-20/ReverseWords151.java)
 - [x] [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
-* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-120/MySqrt69.java)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-20/MySqrt69.java)
 - [x] [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
-* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-120/FindDuplicate287.java)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-20/FindDuplicate287.java)
 
 ### 2021-02-19
 #### 红包算法
