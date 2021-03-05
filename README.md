@@ -1,4 +1,11 @@
 Waiting's leetcode notes
+
+### 2020-03-05
+- [x] [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-05/LongestCommonPrefix14.java)
+- [x] [剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-05/ReversePairsNewCode51.java)
+
 ### 2020-03-04
 - [x] [两数之和](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=117&tqId=37756&rp=1&ru=%2Fta%2Fjob-code-high&qru=%2Fta%2Fjob-code-high%2Fquestion-ranking&tab=answerKey)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-04/TwoSumNewCode.java)
