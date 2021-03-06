@@ -1,5 +1,14 @@
 Waiting's leetcode notes
 
+
+### 2020-03-06
+- [x] [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-06/IsPalindrome125.java)
+- [x] [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-06/MaxProfit121.java)
+- [x] [数组中相加和为0的三元组](https://www.nowcoder.com/practice/345e2ed5f81d4017bbb8cc6055b0b711?tpId=117&tqId=37751&rp=1&ru=%2Fta%2Fjob-code-high&qru=%2Fta%2Fjob-code-high%2Fquestion-ranking&tab=answerKey)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-06/ThreeSum54.java)
+
 ### 2020-03-05
 - [x] [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-05/LongestCommonPrefix14.java)
