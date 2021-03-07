@@ -1,5 +1,15 @@
 Waiting's leetcode notes
 
+### 2020-03-07
+#### Back Track
+- [x] [46. 全排列](https://leetcode-cn.com/problems/permutations/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-07/Permute46.java)
+- [x] [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-07/PermuteUnique47.java)
+- [x] [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-07/CombinationSum39.java)
+- [x] [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-07/CombinationSum40.java)
 
 ### 2020-03-06
 - [x] [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
