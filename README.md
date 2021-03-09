@@ -1,4 +1,7 @@
 Waiting's leetcode notes
+### 2020-03-09
+- [x] [62. Unique Paths](https://leetcode-cn.com/problems/unique-paths/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-09/UniquePaths62.java)
 
 ### 2020-03-07
 #### Back Track

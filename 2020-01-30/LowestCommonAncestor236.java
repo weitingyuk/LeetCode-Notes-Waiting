@@ -8,19 +8,23 @@ public class LowestCommonAncestor236 {
    * TIME: O(N)
    * SPACE:O(1)
    */
-  TreeNode ans = null;
-  private boolean dfs(TreeNode root, TreeNode p, TreeNode q) {
-    if (root == null) {return false;}
-    boolean lson = dfs(root.left, p, q);
-    boolean rson = dfs(root.right, p, q);
-    if ((lson && rson) || ((root.val == p.val ||root.val == q.val) && (lson || rson))) {
-      ans = root;
-    }
-    return lson || rson || (root.val == p.val || root.val == q.val);
-  }
   public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-    dfs(root, p, q);
-    return ans;
+    if (root==p||root==q) {
+      return root;
+    }
+    if (root!=null){
+      TreeNode lNode=lowestCommonAncestor(root.left,p,q);
+      TreeNode rNode=lowestCommonAncestor(root.right,p,q);
+      if (lNode!=null&&rNode!=null)
+        return root;
+      else if(lNode==null) {
+        return rNode;
+      }
+      else {
+        return lNode;
+      }
+    }
+    return null;
   }
   /**
    METHOD: dsf, store parents and visited
