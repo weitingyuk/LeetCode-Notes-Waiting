@@ -1,4 +1,15 @@
 Waiting's leetcode notes
+
+### 2020-03-10
+#### LinkedList
+- [x] [24. Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-10/SwapPairs24.java)
+- [x] [445. Add Two Numbers II](https://leetcode-cn.com/problems/add-two-numbers-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-10/AddTwoNumbers445.java)
+#### DFS
+- [x] [695. Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-10/MaxAreaOfIsland695.java)
+
 ### 2020-03-09
 - [x] [62. Unique Paths](https://leetcode-cn.com/problems/unique-paths/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-09/UniquePaths62.java)
