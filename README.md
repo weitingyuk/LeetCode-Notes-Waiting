@@ -1,5 +1,14 @@
 Waiting's leetcode notes
 
+### 2020-03-12
+#### 复习
+[236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-12/LowestCommonAncestor236.java)
+[125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-12/IsPalindrome125.java)
+[470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-12/Rand470.java)
+
 ### 2020-03-10
 #### LinkedList
 - [x] [24. Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
