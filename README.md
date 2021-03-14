@@ -1,5 +1,20 @@
 Waiting's leetcode notes
 
+### 2020-03-14
+- [x] [440. 字典序的第K小数字](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-14/FindKthNumber440.java)
+- [x] [862. 和至少为 K 的最短子数组](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-14/ShortestSubarray862.java)
+#### 异或
+- [x] [810. 黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-14/XorGame810.java)
+- [x] [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-14/SingleNumber136.java)
+#### 复习
+- [x] [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-14/FindRepeatNumberJianZhi03.java)
+
+
 ### 2020-03-13
 #### 复习
 - [x] [92. 反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
