@@ -1,5 +1,9 @@
 Waiting's leetcode notes
 
+### 2020-03-16
+- [x] [复习 - 1114. 按序打印](https://leetcode-cn.com/problems/print-in-order/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-16/Foo1114.java)
+
 ### 2020-03-15
 - [x] [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-15/Permutation38.java)
