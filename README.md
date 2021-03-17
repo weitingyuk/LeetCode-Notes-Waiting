@@ -1,5 +1,12 @@
 Waiting's leetcode notes
 
+### 2020-03-17
+#### 复习
+- [x] [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-17/PreorderTraversal144.java)
+- [x] [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-17/PostorderTraversal145.java)
+
 ### 2020-03-16
 - [x] [复习 - 1114. 按序打印](https://leetcode-cn.com/problems/print-in-order/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-16/Foo1114.java)
