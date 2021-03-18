@@ -1,5 +1,12 @@
 Waiting's leetcode notes
 
+
+
+
+### 2020-03-18
+- [x] [剑指 Offer 20. 表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-18/isNumberNewCode20.java)
+
 ### 2020-03-17
 #### 复习
 - [x] [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
