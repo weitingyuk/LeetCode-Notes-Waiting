@@ -1,5 +1,11 @@
 Waiting's leetcode notes
 
+### 2020-03-20
+- [x] [486. 预测赢家](https://leetcode-cn.com/problems/predict-the-winner/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-20/PredictTheWinner486.java)
+- [x] [759. 员工空闲时间](https://leetcode-cn.com/problems/employee-free-time/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-20/EmployeeFreeTime759.java)
+
 ### 2020-03-19
 - [x] [剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-19/SpiralOrder29.java)
