@@ -1,5 +1,19 @@
 Waiting's leetcode notes
 
+### 2020-03-21
+- [x] [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-21/LongestPalindrome5.java)
+- [x] [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-21/AddTwoNumbers2.java)
+#### 复习
+- [x] [912. 排序数组-常用的排序方式-BubbleSort ](https://leetcode-cn.com/problems/sort-an-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-21/SortArrayBubbleSort912.java)
+- [x] [912. 排序数组-常用的排序方式-HeapSort](https://leetcode-cn.com/problems/sort-an-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-21/SortArrayHeapSort912.java)
+- [x] [912. 排序数组-常用的排序方式-快排](https://leetcode-cn.com/problems/sort-an-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-21/SortArrayQuick912.java)
+
+
 ### 2020-03-20
 - [x] [486. 预测赢家](https://leetcode-cn.com/problems/predict-the-winner/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-20/PredictTheWinner486.java)
