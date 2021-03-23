@@ -1,5 +1,22 @@
 Waiting's leetcode notes
 
+### 2020-03-23
+#### 复习
+- [x] [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-23/LRUCache146.java)
+- [x] [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-23/SearchRange34.java)
+- [x] [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-23/SearchMatrix74.java)
+- [x] [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-23/SearchMatrixII240.java)
+- [x] [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-23/FirstBadVersion278.java)
+- [x] [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-23/FindPeakElement162.java)
+- [x] [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-23/RotateSearch33.java)
+
 ### 2020-03-22
 #### 复习
 - [x] [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
