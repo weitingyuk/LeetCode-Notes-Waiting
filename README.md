@@ -1,5 +1,18 @@
 Waiting's leetcode notes
 
+### 2020-03-24
+#### 复习
+- [x] [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-24/RotateArray189.java)
+- [x] [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-24/ReverseWords151.java)
+- [x] [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-20/MySqrt69.java)
+- [x] [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-24/FindDuplicate287.java)
+- [x] [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-24/FindRepeatNumberJianZhi03.java)
+
 ### 2020-03-23
 #### 复习
 - [x] [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)
@@ -88,7 +101,6 @@ Waiting's leetcode notes
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-14/XorGame810.java)
 - [x] [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-14/SingleNumber136.java)
-#### 复习
 - [x] [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-14/FindRepeatNumberJianZhi03.java)
 
