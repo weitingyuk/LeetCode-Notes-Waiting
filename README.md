@@ -1,5 +1,12 @@
 Waiting's leetcode notes
 
+### 2020-03-25
+#### 复习
+- [x] [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-25GenerateTreesBst95.java)
+- [x] [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/submissions/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-25/IsValidBST98.java)
+
 ### 2020-03-24
 #### 复习
 - [x] [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
