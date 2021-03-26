@@ -1,5 +1,17 @@
 Waiting's leetcode notes
 
+### 2020-03-26
+#### BTree复习
+- [x] [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-26/SerializeBTree297.java)
+- [x] [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-26/MaxPathSum124.java)
+#### BST复习
+- [x] [510. 二叉搜索树中的中序后继 II(with parent)](https://leetcode-cn.com/problems/inorder-successor-in-bst-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-26/InorderSuccessorWithParent510.java)
+- [x] [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-26/NumTrees96.java)
+
 ### 2020-03-25
 #### 复习
 - [x] [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
