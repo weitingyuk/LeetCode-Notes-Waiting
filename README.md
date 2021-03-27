@@ -1,5 +1,23 @@
 Waiting's leetcode notes
 
+### 2020-03-27
+#### LinkedList + Two pointers
+- [x] [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-27/RemoveNthFromEnd19.java)
+- [x] [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-27/HasCycle141.java)
+- [x] [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-27/DetectCycle142.java)
+#### LinkedList
+- [x] [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-27/DeleteDuplicates83.java)
+- [x] [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-27/DeleteDuplicates82.java)
+- [x] [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-27/PartitionList86.java)
+- [x] [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-27/MergeTwoLists21.java)
+
 ### 2020-03-26
 #### BTree复习
 - [x] [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
