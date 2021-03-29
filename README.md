@@ -1,5 +1,20 @@
 Waiting's leetcode notes
 
+
+### 2020-03-29
+- [x] [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-29/MaxProfit122.java)
+- [x] [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-29/HasPathSum112.java)
+- [x] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-29/MaxSubArray53.java)
+- [x] [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-29/MiddleNode876.java)
+- [x] [剑指 Offer 55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-29/IsBalanced55.java)
+- [x] [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-29/LengthOfLIS300.java)
+
 ### 2020-03-28
 #### 复习
 - [x] [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
@@ -247,7 +262,8 @@ Waiting's leetcode notes
 #### DP
 - [x] [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-28/MinimumTotal120.java)
-- [x] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+#### 复习
+- [x] [剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-02-28/MaxSubArray53.java)
 
 ### 2021-02-27
