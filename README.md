@@ -1,5 +1,9 @@
 Waiting's leetcode notes
-
+### 2020-03-30
+- [x] [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-30/MajorityElement169.java)
+- [x] [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-30/SortArrayByParityII922.java)
 
 ### 2020-03-29
 - [x] [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
