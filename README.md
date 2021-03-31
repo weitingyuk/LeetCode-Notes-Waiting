@@ -1,4 +1,13 @@
 Waiting's leetcode notes
+
+### 2020-03-31
+- [x] [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-31/ReverseKGroup25.java)
+- [x] [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-31/GetIntersectionNode52.java)
+- [x] [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-31/MinStack155.java)
+
 ### 2020-03-30
 - [x] [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-30/MajorityElement169.java)
