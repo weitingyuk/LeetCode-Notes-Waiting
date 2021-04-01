@@ -1,5 +1,13 @@
 Waiting's leetcode notes
 
+### 2020-04-01
+- [x] [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-04-01/LongestConsecutive128.java)
+- [x] [剑指 Offer 11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-04-01/MinArray11.java)
+- [x] [剑指 Offer 57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-04-01/FindContinuousSequence57.java)
+
 ### 2020-03-31
 - [x] [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-03-31/ReverseKGroup25.java)
