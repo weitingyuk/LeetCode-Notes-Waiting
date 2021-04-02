@@ -1,5 +1,9 @@
 Waiting's leetcode notes
 
+### 2020-04-02
+- [x] [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-04-02/Search81.java)
+
 ### 2020-04-01
 - [x] [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-04-01/LongestConsecutive128.java)
