@@ -1,5 +1,16 @@
 Waiting's leetcode notes
 
+### 2020-04-04
+- [x] [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-04-04/DecodeString394.java)
+#### 复习
+- [x] [剑指 Offer 20. 表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-04-04/isNumberNewCode20.java)
+
+### 2020-04-03
+- [x] [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-04-03/Search81.java)
+
 ### 2020-04-02
 - [x] [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-04-02/Search81.java)
