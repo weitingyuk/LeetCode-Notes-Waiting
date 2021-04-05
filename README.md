@@ -1,5 +1,16 @@
 Waiting's leetcode notes
 
+### 2020-04-05
+- [x] [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-04-05/Rotate48.java)
+- [x] [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-04-05/RemoveElement27.java)
+- [x] [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-04-05/RemoveDuplicates26.java
+#### 复习
+- [x] [112. 路径总和 - 新增BFS](https://leetcode-cn.com/problems/path-sum/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-04-05/HasPathSum112.java)
+
 ### 2020-04-04
 - [x] [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2020-04-04/DecodeString394.java)
