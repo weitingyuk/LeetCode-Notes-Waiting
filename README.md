@@ -15,7 +15,7 @@ Waiting's leetcode notes
 - [x] [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-05/RemoveElement27.java)
 - [x] [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
-* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-05/RemoveDuplicates26.java
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-05/RemoveDuplicates26.java)
 #### 复习
 - [x] [112. 路径总和 - 新增BFS](https://leetcode-cn.com/problems/path-sum/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-05/HasPathSum112.java)
