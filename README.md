@@ -1,5 +1,10 @@
 Waiting's leetcode notes
 
+
+### 2021-04-07
+- [x] [912. 排序数组-快排及其优化(待改进)](https://leetcode-cn.com/problems/sort-an-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-07/SortArrayQuick912.java)
+
 ### 2021-04-06
 - [x] [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-06/ValidPalindrome680.java)
