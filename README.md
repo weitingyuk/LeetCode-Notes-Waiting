@@ -1,6 +1,16 @@
 Waiting's leetcode notes
 
 
+### 2021-04-08
+- [x] [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-08/FindMin153.java)
+- [x] [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-08/CanJump55.java)
+- [x] [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-08/Jump45.java)
+
+
+
 ### 2021-04-07
 - [x] [912. 排序数组-快排及其优化(待改进)](https://leetcode-cn.com/problems/sort-an-array/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-07/SortArrayQuick912.java)
