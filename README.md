@@ -1,5 +1,15 @@
 Waiting's leetcode notes
 
+### 2021-04-10
+- [x] [263. 丑数](https://leetcode-cn.com/problems/ugly-number/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-10/IsUgly263.java)
+- [x] [剑指 Offer 06. 从尾到头打印链表 - 待续](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-10/ReversePrintJianZhi06.java)
+- [x] [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-10/UniquePathsII63.java)
+- [x] [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-10/VerifyPostorderJianZhi33.java)
+
 ### 2021-04-09
 - [x] [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-09/FindMedianSortedArrays4.java)
@@ -273,7 +283,7 @@ Waiting's leetcode notes
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-03-10/MaxAreaOfIsland695.java)
 
 ### 2021-03-09
-- [x] [62. Unique Paths](https://leetcode-cn.com/problems/unique-paths/)
+- [x] [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-03-09/UniquePaths62.java)
 
 ### 2021-03-07
