@@ -1,5 +1,12 @@
 Waiting's leetcode notes
 
+
+### 2021-04-11
+- [x] [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-11/IsUgly263.java)
+- [x] [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-11/NthUglyNumber264.java)
+
 ### 2021-04-10
 - [x] [263. 丑数](https://leetcode-cn.com/problems/ugly-number/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-10/IsUgly263.java)
