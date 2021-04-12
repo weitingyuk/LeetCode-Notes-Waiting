@@ -1,5 +1,22 @@
 Waiting's leetcode notes
 
+### 2021-04-12
+- [x] [179. 最大数](https://leetcode-cn.com/problems/largest-number/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-12/LargestNumber179.java)
+- [x] [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-12/PathSum437.java)
+- [x] [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-12/DiameterOfBinaryTree543.java)
+- [x] [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-12/MergeTrees617.java)
+- [x] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-12/InvertTree226.java)
+- [x] [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-12/IsBalanced110.java)
+- [x] [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-12/SortedArrayToBST108.java)
+
+
 
 ### 2021-04-11
 - [x] [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)
@@ -503,49 +520,49 @@ Waiting's leetcode notes
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-02-11/PostorderTraversal145.java)
 
 ### 2021-02-10
-[1114. 按序打印](https://leetcode-cn.com/problems/print-in-order/)
+- [x] [1114. 按序打印](https://leetcode-cn.com/problems/print-in-order/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-02-10/Foo1114.java)
 
 ### 2021-02-09
-[232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+- [x] [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-02-09/MyQueue232.java)
 
 ### 2021-02-08
-[22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
+- [x] [22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-02-08/GetKthFromEnd22.java)
   
 ### 2021-02-07
-[92. 反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+- [x] [92. 反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-02-07/ReverseBetween92.java)
 
 ### 2021-02-06
-[1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
+- [x] [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-02-06/LongestCommonSubsequence1143.java)
 
 ### 2021-02-05
-[206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+- [x] [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-02-05/ReverseList206.java)
 
 ### 2021-02-04
-[470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)
+- [x] [470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-02-04/Rand470.java)
 
 ### 2021-02-03
-[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+- [x] [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-02-03/InorderTraversal94.java)
 
 ### 2021-02-02
-[102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+- [x] [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-02-02/LevelOrder102.java)
 
 ### 2021-02-01
-[103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [x] [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-02-01/ZigzagLevelOrder103.java)
 
 ### 2021-01-31
-[105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [x] [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-01-31/BuildTree105.java)
 
 ### 2021-01-30
-[236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [x] [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-01-30/LowestCommonAncestor236.java)
