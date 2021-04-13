@@ -1,5 +1,16 @@
 Waiting's leetcode notes
 
+### 2021-04-13
+- [x] [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-13/SortedListToBST109.java)
+- [x] [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-13/MinDiffInBST783.java)
+#### 复习
+- [x] [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-13/NumTrees96.java)
+- [x] [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-13/GenerateTreesBst95.java)
+
 ### 2021-04-12
 - [x] [179. 最大数](https://leetcode-cn.com/problems/largest-number/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-12/LargestNumber179.java)
