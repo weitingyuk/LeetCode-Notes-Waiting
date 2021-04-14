@@ -1,5 +1,15 @@
 Waiting's leetcode notes
 
+
+
+### 2021-04-14
+- [x] [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-14/Trie208.java)
+- [x] [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-14/Merge56.java)
+- [x] [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-14/LengthOfLongestSubstring3.java)
+
 ### 2021-04-13
 - [x] [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-13/SortedListToBST109.java)
