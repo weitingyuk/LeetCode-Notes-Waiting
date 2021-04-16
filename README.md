@@ -1,5 +1,14 @@
 Waiting's leetcode notes
 
+### 2021-04-16
+- [x] [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-16/TopKFrequent347.java)
+- [x] [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-16/GetLeastNumbers40.java)
+- [x] [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-16/LevelOrderBottom107.java)
+
+
 ### 2021-04-15
 - [x] [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-15/Rob213.java)
