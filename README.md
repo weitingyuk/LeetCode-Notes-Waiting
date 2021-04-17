@@ -1,5 +1,9 @@
 Waiting's leetcode notes
 
+### 2021-04-17
+- [x] [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-17/ContainsNearbyAlmostDuplicate220.java)
+
 ### 2021-04-16
 - [x] [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-16/TopKFrequent347.java)
