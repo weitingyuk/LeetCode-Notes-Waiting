@@ -1,5 +1,9 @@
 Waiting's leetcode notes
 
+### 2021-04-18
+- [x] [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-18/MinDistance72.java)
+
 ### 2021-04-17
 - [x] [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-17/ContainsNearbyAlmostDuplicate220.java)
