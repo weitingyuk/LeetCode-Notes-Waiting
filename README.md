@@ -1,5 +1,13 @@
 Waiting's leetcode notes
 
+### 2021-04-19
+- [x] [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-19/JumpGame45.java)
+- [x] [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-19/JumpGame55.java)
+- [x] [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-19/NumIslands200.java)
+
 ### 2021-04-18
 - [x] [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-18/MinDistance72.java)
