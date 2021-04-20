@@ -1,5 +1,13 @@
 Waiting's leetcode notes
 
+### 2021-04-20
+- [x] [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-20/Trap42.java)
+- [x] [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-20/SortColors75.java)
+- [x] [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-20/CoinChange322.java)
+
 ### 2021-04-19
 - [x] [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-19/JumpGame45.java)
