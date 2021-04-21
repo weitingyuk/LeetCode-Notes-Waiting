@@ -1,5 +1,9 @@
 Waiting's leetcode notes
 
+### 2021-04-21
+- [x] [528. 按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-21/RandomPickIndex528.java)
+
 ### 2021-04-20
 - [x] [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-20/Trap42.java)
