@@ -3,6 +3,8 @@ Waiting's leetcode notes
 ### 2021-04-21
 - [x] [528. 按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-21/RandomPickIndex528.java)
+- [x] [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-21/StrStr28.java)
 
 ### 2021-04-20
 - [x] [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
