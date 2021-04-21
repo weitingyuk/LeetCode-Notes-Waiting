@@ -1,6 +1,8 @@
 Waiting's leetcode notes
 
 ### 2021-04-21
+- [x] [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* [source code - LowestCommonAncestor235](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-21/LowestCommonAncestor235.java)
 - [x] [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)
 * [source code - NextPermutation31](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-21/NextPermutation31.java)
 - [x] [528. 按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/)
