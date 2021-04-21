@@ -1,10 +1,15 @@
 Waiting's leetcode notes
 
 ### 2021-04-21
+- [x] [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-21/NextPermutation31.java)
 - [x] [528. 按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-21/RandomPickIndex528.java)
 - [x] [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)
 * [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-21/StrStr28.java)
+#### 复习
+- [x] [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-03-03/SpiralOrder54.java)
 
 ### 2021-04-20
 - [x] [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
