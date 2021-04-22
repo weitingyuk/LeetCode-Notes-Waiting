@@ -1,5 +1,11 @@
 Waiting's leetcode notes
 
+
+### 2021-04-22
+- [x] [1448. 统计二叉树中好节点的数目](https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree/)
+* [source code - LowestCommonAncestor235](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-22/GoodNodes1448.java)
+
+
 ### 2021-04-21
 - [x] [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 * [source code - LowestCommonAncestor235](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-21/LowestCommonAncestor235.java)
