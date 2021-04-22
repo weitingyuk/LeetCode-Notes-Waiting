@@ -9,7 +9,7 @@ Waiting's leetcode notes
 * [source code - RandomPickIndex528](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-21/RandomPickIndex528.java)
 - [x] [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)
 * [source code- StrStr28](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-21/StrStr28.java)
-- [x] [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/)
+- [x] [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 * [source code - IsValid20](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-21/IsValid20.java)
 #### 复习
 - [x] [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)
