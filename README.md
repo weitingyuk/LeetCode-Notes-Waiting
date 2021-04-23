@@ -1,5 +1,8 @@
 Waiting's leetcode notes
 
+### 2021-04-23
+- [x] [253. 会议室 II - MinMeetingRooms253](https://leetcode-cn.com/problems/meeting-rooms-ii/)
+* [source code - GoodNodes1448](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-23/MinMeetingRooms253.java)
 
 ### 2021-04-22
 - [x] [1448. 统计二叉树中好节点的数目](https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree/)
