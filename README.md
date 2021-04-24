@@ -1,6 +1,14 @@
 Waiting's leetcode notes
 
 ### 2021-04-23
+- [x] [377. 组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/)
+* [source code - CombinationSum377](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-24/CombinationSum377.java)
+- [x] [剑指 Offer 62. 圆圈中最后剩下的数字 - 约瑟夫环](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
+* [source code - LastRemaining62](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-24/LastRemaining62.java)
+- [x] [69. x 的平方根 - 复习](https://leetcode-cn.com/problems/sqrtx/)
+* [source code - MySqrt69](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-24/MySqrt69.java)
+
+### 2021-04-23
 - [x] [253. 会议室 II - MinMeetingRooms253](https://leetcode-cn.com/problems/meeting-rooms-ii/)
 * [source code - GoodNodes1448](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-23/MinMeetingRooms253.java)
 - [x] [300. 最长递增子序列-Method2](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
