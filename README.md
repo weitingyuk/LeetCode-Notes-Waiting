@@ -1,5 +1,10 @@
 Waiting's leetcode notes
 
+### 2021-04-26
+- [x] [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+* [source code - ThreeSum15](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-26/ThreeSum15.java)
+- [x] [468. 验证IP地址](https://leetcode-cn.com/problems/validate-ip-address/)
+* [source code - ValidIPAddress468](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-26/ValidIPAddress468.java)
 
 ### 2021-04-25
 - [x] [剑指 Offer 68 - II. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
