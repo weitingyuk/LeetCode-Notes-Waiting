@@ -1,5 +1,9 @@
 Waiting's leetcode notes
 
+### 2021-04-27
+- [x] [18. 四数之和](https://leetcode-cn.com/problems/4sum/)
+* [source code - FourSum18](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-27/FourSum18.java)
+
 ### 2021-04-26
 - [x] [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
 * [source code - ThreeSum15](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-26/ThreeSum15.java)
