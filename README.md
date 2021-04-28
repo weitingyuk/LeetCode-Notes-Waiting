@@ -1,5 +1,11 @@
 Waiting's leetcode notes
 
+### 2021-04-28
+- [x] [剑指 Offer 55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)
+* [source code - IsBalanced55](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-28/IsBalanced55.java)
+- [x] [633. 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/)
+* [source code - JudgeSquareSum633](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-28/JudgeSquareSum633.java)
+
 ### 2021-04-27
 - [x] [18. 四数之和](https://leetcode-cn.com/problems/4sum/)
 * [source code - FourSum18](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-27/FourSum18.java)
