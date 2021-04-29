@@ -1,5 +1,14 @@
 Waiting's leetcode notes
 
+### 2021-04-29
+- [x] [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
+* [source code - ReverseLeftWords58](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-29/ReverseLeftWords58.java)
+- [x] [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+* [source code - MyAtoi8](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-29/MyAtoi8.java)
+- [x] [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+* [source code - MyAtoi8](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-29/MyAtoi8.java)
+
+
 ### 2021-04-28
 - [x] [剑指 Offer 55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/)
 * [source code - IsBalanced55](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-28/IsBalanced55.java)
