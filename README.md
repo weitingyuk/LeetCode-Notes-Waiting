@@ -5,8 +5,6 @@ Waiting's leetcode notes
 * [source code - ReverseLeftWords58](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-29/ReverseLeftWords58.java)
 - [x] [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 * [source code - MyAtoi8](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-29/MyAtoi8.java)
-- [x] [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
-* [source code - MyAtoi8](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-29/MyAtoi8.java)
 
 
 ### 2021-04-28
