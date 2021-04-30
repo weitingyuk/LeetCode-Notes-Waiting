@@ -1,5 +1,13 @@
 Waiting's leetcode notes
 
+### 2021-04-30
+- [x] [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/)
+* [source code - SimplifyPath71](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-30/SimplifyPath71.java)
+- [x] [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/)
+* [source code - IsPalindrome9](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-30/IsPalindrome9.java)
+- [x] [剑指 Offer 46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)
+* [source code - TranslateNum46](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-30/TranslateNum46.java)
+
 ### 2021-04-29
 - [x] [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
 * [source code - ReverseLeftWords58](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-04-29/ReverseLeftWords58.java)
