@@ -1,5 +1,9 @@
 Waiting's leetcode notes
 
+### 2021-05-03
+- [x] [135. 分发糖果](https://leetcode-cn.com/problems/candy/)
+* [source code - Candy135](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-03/Candy135.java)
+
 ### 2021-05-02
 - [x] [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
 * [source code - IsSameTree100](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-02/IsSameTree100.java)
