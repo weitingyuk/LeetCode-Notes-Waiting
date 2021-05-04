@@ -1,5 +1,13 @@
 Waiting's leetcode notes
 
+### 2021-05-04
+- [x] [260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)
+* [source code - SingleNumber260](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-04/SingleNumber260.java)
+- [x] [134. 加油站](https://leetcode-cn.com/problems/gas-station/)
+* [source code - CanCompleteCircuit134](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-04/CanCompleteCircuit134.java)
+- [x] [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)
+* [source code - MinWindow76](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-04/MinWindow76.java)
+
 ### 2021-05-03
 - [x] [135. 分发糖果](https://leetcode-cn.com/problems/candy/)
 * [source code - Candy135](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-03/Candy135.java)
