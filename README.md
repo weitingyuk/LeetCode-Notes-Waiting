@@ -1,5 +1,14 @@
 Waiting's leetcode notes
 
+
+### 2021-05-05
+- [x] [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)
+* [source code - ReverseWords58](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-05/ReverseWords58.java)
+- [x] [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
+* [source code - Exist12](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-05/Exist12.java)
+- [x] [2. 两数相加 - 复习](https://leetcode-cn.com/problems/add-two-numbers/)
+* [source code - AddTwoNumbers2](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-05/AddTwoNumbers2.java)
+
 ### 2021-05-04
 - [x] [260. 只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)
 * [source code - SingleNumber260](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-04/SingleNumber260.java)
