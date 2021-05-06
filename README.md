@@ -1,6 +1,12 @@
 Waiting's leetcode notes
 
 
+### 2021-05-06
+- [x] [232. 用栈实现队列 - 复习](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+* [source code - MyQueue232](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-06/MyQueue232.java)
+- [x] [470. 用 Rand7() 实现 Rand10() - 复习](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)
+* [source code - Rand470](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-06/Rand470.java)
+
 ### 2021-05-05
 - [x] [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)
 * [source code - ReverseWords58](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-05/ReverseWords58.java)
