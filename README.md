@@ -1,5 +1,14 @@
 Waiting's leetcode notes
 
+### 2021-05-08
+- [x] [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
+* [source code - MoveZeroes283](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-08/MoveZeroes283.java)
+- [x] [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+* [source code - MinDepth111](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-08/MinDepth111.java)
+- [x] [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
+* [source code - SingleNumber136](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-08/SingleNumber136.java)
+
+
 ### 2021-05-07
 - [x] [123. 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)
 * [source code - MaxProfit123](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-07/MaxProfit123.java)
