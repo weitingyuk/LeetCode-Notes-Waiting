@@ -1,5 +1,15 @@
 Waiting's leetcode notes
 
+### 2021-05-09
+- [x] [283. 移动零](https://leetcode-cn.com/problems/pascals-triangle/)
+* [source code - Generate118](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-09/Generate118.java)
+- [x] [13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)
+* [source code - RomanToInt13](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-09/RomanToInt13.java)
+- [x] [867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/)
+* [source code - Transpose867](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-09/Transpose867.java)
+- [x] [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/)
+* [source code - Transpose867](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-09/AddBinary67.java)
+
 ### 2021-05-08
 - [x] [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
 * [source code - MoveZeroes283](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-08/MoveZeroes283.java)
