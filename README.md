@@ -1,5 +1,9 @@
 Waiting's leetcode notes
 
+### 2021-05-10
+- [x] [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+* [source code - DailyTemperatures739](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-10/DailyTemperatures739.java)
+
 ### 2021-05-09
 - [x] [283. 移动零](https://leetcode-cn.com/problems/pascals-triangle/)
 * [source code - Generate118](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-09/Generate118.java)
