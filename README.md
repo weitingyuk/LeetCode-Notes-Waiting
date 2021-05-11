@@ -1,5 +1,21 @@
 Waiting's leetcode notes
 
+### 2021-05-11
+- [x] [559. N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)
+* [source code - MaxDepth559](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-11/MaxDepth559.java)
+- [x] [589. N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)
+* [source code - Preorder589](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-11/Preorder589.java)
+- [x] [1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+* [source code - GetDecimalValue1290](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-11/GetDecimalValue1290.java)
+- [x] [852. 山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)
+* [source code - PeakIndexInMountainArray852](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-11/PeakIndexInMountainArray852.java)
+- [x] [905. 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)
+* [source code - SortArrayByParity905](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-11/SortArrayByParity905.java)
+- [x] [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
+* [source code - IsAnagram242](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-11/IsAnagram242.java)
+
+
+
 ### 2021-05-10
 - [x] [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
 * [source code - DailyTemperatures739](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-10/DailyTemperatures739.java)
