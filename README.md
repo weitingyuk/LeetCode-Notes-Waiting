@@ -1,5 +1,9 @@
 Waiting's leetcode notes
 
+### 2021-05-12
+- [x] [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/)
+* [source code - BackspaceCompare844](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-12/BackspaceCompare844.java)
+
 ### 2021-05-11
 - [x] [559. N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)
 * [source code - MaxDepth559](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-11/MaxDepth559.java)
