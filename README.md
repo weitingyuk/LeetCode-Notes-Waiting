@@ -1,5 +1,11 @@
 Waiting's leetcode notes
 
+### 2021-05-13
+- [x] [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
+* [source code - Convert6](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-13/Convert6.java)
+- [x] [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)
+* [source code - Partition131](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-13/Partition131.java)
+
 ### 2021-05-12
 - [x] [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/)
 * [source code - BackspaceCompare844](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-12/BackspaceCompare844.java)
