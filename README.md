@@ -1,5 +1,9 @@
 Waiting's leetcode notes
 
+### 2021-05-14
+- [x] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+* [source code - GenerateParenthesis22](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-14/GenerateParenthesis22.java)
+
 ### 2021-05-13
 - [x] [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
 * [source code - Convert6](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-13/Convert6.java)
