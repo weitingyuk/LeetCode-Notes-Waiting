@@ -1,5 +1,10 @@
 Waiting's leetcode notes
 
+### 2021-05-15
+- [x] [1048. 最长字符串链](https://leetcode-cn.com/problems/longest-string-chain/)
+* [source code - LongestStrChain1048](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-15/LongestStrChain1048.java)
+
+
 ### 2021-05-14
 - [x] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 * [source code - GenerateParenthesis22](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-14/GenerateParenthesis22.java)
