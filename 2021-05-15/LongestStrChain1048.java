@@ -2,9 +2,36 @@ package Leetcode;
 
 import java.util.Arrays;
 import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Map;
 
 public class LongestStrChain1048 {
-  /*Method: DP, Time: O(N^2), Space:O(N)**/
+  /*Method1: Previous word, Time: O(NlogN) + O(NSS), Space:O(NS)**/
+  /**
+   Sort the words by word's length. (also can apply bucket sort)
+   For each word, loop on all possible previous word with 1 letter missing.
+   If we have seen this previous word, update the longest chain for the current word.
+   Finally return the longest word chain.
+   **/
+  public int longestStrChain1(String[] words) {
+    Map<String, Integer> dp = new HashMap<>();
+    Arrays.sort(words, (a,b) -> a.length() - b.length());
+    int len = words.length;
+    int res =0;
+    for(String word: words){
+      int best =0;
+      for(int i=0; i<word.length(); i++) {
+        String prev = word.substring(0, i) + word.substring(i+1);
+        best = Math.max(best, dp.getOrDefault(prev, 0) +1);
+      }
+
+      dp.put(word, best);
+      res = Math.max(res, best);
+    }
+    return res;
+  }
+
+  /*Method2: DP, Time: O(N^2), Space:O(N)**/
   /**
    对字符串数组排序，排序标准就是其长度，如果前面有一个字符串是后面一个字符串的实例。
    当往后遍历过程中可能有其他更长的情况，就要加上dp[j]=Math.max(dp[i]+1,dp[j])获取最大的值。

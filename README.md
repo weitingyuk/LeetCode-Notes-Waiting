@@ -1,5 +1,10 @@
 Waiting's leetcode notes
 
+
+### 2021-05-16
+- [x] [391. 完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
+* [source code - IsRectangleCover391](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-16/IsRectangleCover391.java)
+
 ### 2021-05-15
 - [x] [1048. 最长字符串链](https://leetcode-cn.com/problems/longest-string-chain/)
 * [source code - LongestStrChain1048](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-15/LongestStrChain1048.java)
