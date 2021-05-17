@@ -1,5 +1,7 @@
 Waiting's leetcode notes
-
+### 2021-05-17
+- [x] [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
+* [source code - EvalRPN150](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-17/EvalRPN150.java)
 
 ### 2021-05-16
 - [x] [391. 完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)
