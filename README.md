@@ -1,4 +1,8 @@
 Waiting's leetcode notes
+### 2021-05-19
+- [x] [317. 离建筑物最近的距离](https://leetcode-cn.com/problems/shortest-distance-from-all-buildings/)
+* [source code - ShortestDistance317](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-19/ShortestDistance317.java)
+
 ### 2021-05-18
 - [x] [375. 猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/)
 * [source code - GetMoneyAmount375](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-18/GetMoneyAmount375.java)
