@@ -1,4 +1,9 @@
 Waiting's leetcode notes
+
+### 2021-05-20
+- [x] [1056. 易混淆数](https://leetcode-cn.com/problems/confusing-number/)
+* [source code - ConfusingNumber1056](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-20/ConfusingNumber1056.java)
+
 ### 2021-05-19
 - [x] [317. 离建筑物最近的距离](https://leetcode-cn.com/problems/shortest-distance-from-all-buildings/)
 * [source code - ShortestDistance317](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-19/ShortestDistance317.java)
