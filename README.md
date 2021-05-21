@@ -1,5 +1,9 @@
 Waiting's leetcode notes
 
+### 2021-05-21
+- [x] [1146. 快照数组](https://leetcode-cn.com/problems/snapshot-array/)
+* [source code - SnapshotArray1146](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-21/SnapshotArray1146.java)
+
 ### 2021-05-20
 - [x] [1056. 易混淆数](https://leetcode-cn.com/problems/confusing-number/)
 * [source code - ConfusingNumber1056](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-20/ConfusingNumber1056.java)
