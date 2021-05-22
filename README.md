@@ -1,4 +1,7 @@
 Waiting's leetcode notes
+### 2021-05-22
+- [x] [398. 随机数索引](https://leetcode-cn.com/problems/random-pick-index/)
+* [source code - Pick398](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-22/Pick398.java)
 
 ### 2021-05-21
 - [x] [1146. 快照数组](https://leetcode-cn.com/problems/snapshot-array/)
