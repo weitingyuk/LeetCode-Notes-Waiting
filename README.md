@@ -1,4 +1,11 @@
 Waiting's leetcode notes
+### 2021-05-23
+- [x] [56. 合并区间 - 复习](https://leetcode-cn.com/problems/merge-intervals/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-23/Merge56.java)
+- [x] [105. 从前序与中序遍历序列构造二叉树 - 复习](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+* [source code](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-23/BuildTree105.java)
+
+
 ### 2021-05-22
 - [x] [398. 随机数索引](https://leetcode-cn.com/problems/random-pick-index/)
 * [source code - Pick398](https://github.com/weitingyuk/LeetCode-Notes-Waiting/blob/main/2021-05-22/Pick398.java)
